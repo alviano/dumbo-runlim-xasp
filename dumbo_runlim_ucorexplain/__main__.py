@@ -2,8 +2,6 @@ from pathlib import Path
 
 import typer
 from dumbo_asp.primitives.models import Model
-from dumbo_asp.primitives.programs import SymbolicProgram
-from dumbo_asp.queries import explanation_graph, pack_xasp_navigator_url
 from dumbo_runlim import utils
 from dumbo_runlim.utils import run_experiment, external_command
 from dumbo_utils.console import console

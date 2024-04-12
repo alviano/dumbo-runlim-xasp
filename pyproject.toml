@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 xasp = "^0.8.3"
-dumbo-asp = "^0.3.6"
 dumbo-runlim = "^0.2.5"
 
 
